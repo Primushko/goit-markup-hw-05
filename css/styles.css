@@ -474,6 +474,7 @@ cursor: pointer;
 .modal-button-close {
     position: absolute;
     display: flex;
+    padding: 0%;
     top: 24px;
     right: 24px;
     justify-content: center;
@@ -482,8 +483,7 @@ cursor: pointer;
     height: 24px;
     border-radius: 50%;
     border: 1px solid rgba(0, 0, 0, 0.1);
-    background-color: #E7E9FC;
-    padding: 0%;
+    background-color: #E7E9FC;    
 }
 .modal-button-close:hover,
 .modal-button-close:focus {
